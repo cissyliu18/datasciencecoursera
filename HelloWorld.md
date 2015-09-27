@@ -1,4 +1,1 @@
-###Hello World!
-* red
-* blue
-* green
+##Hello World!
